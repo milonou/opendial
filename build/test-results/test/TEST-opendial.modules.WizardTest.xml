@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="opendial.modules.WizardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-20T15:04:00" hostname="DESKTOP-6DMQJE2" time="5.82">
+  <properties/>
+  <testcase name="testWizardLearning" classname="opendial.modules.WizardTest" time="5.82"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[OpenDial] INFO: Module WizardLearner successfully attached 
+]]></system-err>
+</testsuite>

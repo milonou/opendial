@@ -1,0 +1,63 @@
+opendial/domains/ParametersTest.java
+ opendial.domains.ParametersTest
+opendial/domains/LearningTest.java
+ opendial.domains.LearningTest
+opendial/domains/DemoTest.java
+ opendial.domains.DemoTest
+opendial/bn/ValueTest.java
+ opendial.bn.ValueTest
+opendial/domains/DialogueStateTest.java
+ opendial.domains.DialogueStateTest
+opendial/modules/ImporterTest.java
+ opendial.modules.ImporterTest
+opendial/inference/InferenceTest.java
+ opendial.inference.InferenceTest
+opendial/bn/RelationalTest.java
+ opendial.bn.RelationalTest
+ opendial.bn.RelationalTest$TestFunction
+opendial/inference/InferenceLargeScaleTest.java
+ opendial.inference.InferenceLargeScaleTest
+opendial/modules/ConnectorTest.java
+ opendial.modules.ConnectorTest
+opendial/domains/RuleTest2.java
+ opendial.domains.RuleTest2
+opendial/domains/TemplateStringTest.java
+ opendial.domains.TemplateStringTest
+opendial/bn/BNetworkStructureTest.java
+ opendial.bn.BNetworkStructureTest
+opendial/domains/FlightBookingTest.java
+ opendial.domains.FlightBookingTest
+opendial/modules/SimulatorTest.java
+ opendial.modules.SimulatorTest
+opendial/domains/StepByStepTest.java
+ opendial.domains.StepByStepTest
+opendial/domains/RefResolution.java
+ opendial.domains.RefResolution
+opendial/modules/GUITest.java
+ opendial.modules.GUITest
+opendial/common/NetworkExamples.java
+ opendial.common.NetworkExamples
+opendial/bn/AssignmentTest.java
+ opendial.bn.AssignmentTest
+opendial/domains/RuleTest3.java
+ opendial.domains.RuleTest3
+opendial/bn/DistributionsTest.java
+ opendial.bn.DistributionsTest
+opendial/inference/IncrementalTest.java
+ opendial.inference.IncrementalTest
+opendial/inference/NetworkReductionTest.java
+ opendial.inference.NetworkReductionTest
+opendial/common/InferenceChecks.java
+ opendial.common.InferenceChecks
+opendial/domains/PruningTest.java
+ opendial.domains.PruningTest
+opendial/modules/RecordingTest.java
+ opendial.modules.RecordingTest
+opendial/domains/RuleTest1.java
+ opendial.domains.RuleTest1
+opendial/modules/WizardTest.java
+ opendial.modules.WizardTest
+opendial/modules/PlanningTest.java
+ opendial.modules.PlanningTest
+opendial/inference/RuleAndParams.java
+ opendial.inference.RuleAndParams
